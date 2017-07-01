@@ -1,10 +1,10 @@
 {
   "name": "node-horseman",
-  "version": "3.3.0",
+  "version": "3.3.1",
   "description": "Run PhantomJS from Node",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johntitus/node-horseman.git"
+    "url": "https://github.com/valentinLecorps/node-horseman.git"
   },
   "main": "lib/index",
   "directories": {
